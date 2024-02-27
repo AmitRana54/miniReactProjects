@@ -1,0 +1,47 @@
+.showOffer{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.offerpage{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page{
+  height: 40vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(188, 210, 230);
+  padding: 0vw 1vw;
+}
+#delBtn{
+  margin-left: -28vw;
+}
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  color: white;
+
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}

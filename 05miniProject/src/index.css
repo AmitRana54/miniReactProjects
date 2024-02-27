@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+main{
+    height: 100vh;
+    width: 100vw;
+    background-color: #1210105b;
+}
+
+
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+}
+              
+.btn{
+    all: unset;
+    padding: 3vw;
+    border: none;
+
+    
+    
+}
+.star{
+    font-size: 3vw;
+    font-weight: bold;
+}
+.set{
+    color: yellow;
+    font-size: 4vw;
+    font-weight: bold;
+
+}
+.unset{
+    font-size: 4vw;
+    font-weight: bold;
+    color: white;
+    
+}

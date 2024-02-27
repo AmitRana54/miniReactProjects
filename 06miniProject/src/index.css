@@ -1,0 +1,39 @@
+.app{
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+}
+input{
+height: 3rem;
+width: 2rem;
+margin: 10px;
+font-size: 1.3rem;
+font-weight: bold;
+text-align: center;
+
+
+}
+button{
+  all: unset;
+  padding: 1rem;
+  background-color: blue;
+  color: white;
+  display: flex;
+  align-self: center;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+

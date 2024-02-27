@@ -1,0 +1,15 @@
+.btnContainer{
+}
+h1{
+  text-align: center;
+}
+.prevevent{
+  width: 30vw;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

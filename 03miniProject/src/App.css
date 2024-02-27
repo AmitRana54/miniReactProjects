@@ -1,0 +1,49 @@
+main{
+    background: #aba5a5;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+width: 100vw;
+}
+#hr,#sec,#min{
+all: unset;
+width: 4rem;
+height: 5rem;
+margin: 1rem;
+font-size: 1.4rem;
+padding-left: 0.3rem;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+background-color: rgba(186, 204, 221, 0.46);
+border-radius: 10px;
+
+
+
+}
+.InputContainer{
+    display: flex;
+    align-items: center;
+justify-content: center;}
+
+button{
+    padding: 1rem 2rem;
+    background-color: rgb(51, 32, 218);
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    margin-right: 2rem;
+    color: white;
+
+
+}
+.result{
+
+font-size: 6rem;
+font-weight: bold;
+
+
+
+}
